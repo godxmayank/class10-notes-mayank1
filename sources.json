@@ -1,0 +1,108 @@
+{
+  "Science": {
+    "1. Chemical Reactions and Equations": "https://ncert.nic.in/textbook/pdf/jesc101.pdf",
+    "2. Acids, Bases and Salts": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+    "3. Metals and Non-Metals": "https://ncert.nic.in/textbook/pdf/jesc103.pdf",
+    "4. Carbon and Its Compounds": "https://ncert.nic.in/textbook/pdf/jesc104.pdf",
+    "5. Life Processes": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+    "6. Control and Coordination": "https://ncert.nic.in/textbook/pdf/jesc106.pdf",
+    "7. How do Organisms Reproduce?": "https://ncert.nic.in/textbook/pdf/jesc107.pdf",
+    "8. Heredity": "https://ncert.nic.in/textbook/pdf/jesc108.pdf",
+    "9. Light – Reflection and Refraction": "https://ncert.nic.in/textbook/pdf/jesc109.pdf",
+    "10. The Human Eye and the Colourful World": "https://ncert.nic.in/textbook/pdf/jesc110.pdf",
+    "11. Electricity": "https://ncert.nic.in/textbook/pdf/jesc111.pdf",
+    "12. Magnetic Effects of Electric Current": "https://ncert.nic.in/textbook/pdf/jesc112.pdf",
+    "13. Sources of Energy": "https://ncert.nic.in/textbook/pdf/jesc113.pdf",
+    "14. Our Environment": "https://ncert.nic.in/textbook/pdf/jesc114.pdf",
+    "15. Management of Natural Resources": "https://ncert.nic.in/textbook/pdf/jesc115.pdf"
+  },
+
+  "Mathematics": {
+    "1. Real Numbers": "https://ncert.nic.in/textbook/pdf/jemh101.pdf",
+    "2. Polynomials": "https://ncert.nic.in/textbook/pdf/jemh102.pdf",
+    "3. Pair of Linear Equations in Two Variables": "https://ncert.nic.in/textbook/pdf/jemh103.pdf",
+    "4. Quadratic Equations": "https://ncert.nic.in/textbook/pdf/jemh104.pdf",
+    "5. Arithmetic Progressions": "https://ncert.nic.in/textbook/pdf/jemh105.pdf",
+    "6. Triangles": "https://ncert.nic.in/textbook/pdf/jemh106.pdf",
+    "7. Coordinate Geometry": "https://ncert.nic.in/textbook/pdf/jemh107.pdf",
+    "8. Introduction to Trigonometry": "https://ncert.nic.in/textbook/pdf/jemh108.pdf",
+    "9. Some Applications of Trigonometry": "https://ncert.nic.in/textbook/pdf/jemh109.pdf",
+    "10. Circles": "https://ncert.nic.in/textbook/pdf/jemh110.pdf",
+    "11. Constructions": "https://ncert.nic.in/textbook/pdf/jemh111.pdf",
+    "12. Areas Related to Circles": "https://ncert.nic.in/textbook/pdf/jemh112.pdf",
+    "13. Surface Areas and Volumes": "https://ncert.nic.in/textbook/pdf/jemh113.pdf",
+    "14. Statistics": "https://ncert.nic.in/textbook/pdf/jemh114.pdf",
+    "15. Probability": "https://ncert.nic.in/textbook/pdf/jemh115.pdf"
+  },
+
+  "Social Science": {
+    "History - The Rise of Nationalism in Europe": "https://ncert.nic.in/textbook/pdf/jhhs101.pdf",
+    "History - Nationalism in India": "https://ncert.nic.in/textbook/pdf/jhhs102.pdf",
+    "History - The Making of a Global World": "https://ncert.nic.in/textbook/pdf/jhhs103.pdf",
+    "History - The Age of Industrialisation": "https://ncert.nic.in/textbook/pdf/jhhs104.pdf",
+    "History - Print Culture and the Modern World": "https://ncert.nic.in/textbook/pdf/jhhs105.pdf",
+    "Geography - Resources and Development": "https://ncert.nic.in/textbook/pdf/jhgy101.pdf",
+    "Geography - Forest and Wildlife Resources": "https://ncert.nic.in/textbook/pdf/jhgy102.pdf",
+    "Geography - Water Resources": "https://ncert.nic.in/textbook/pdf/jhgy103.pdf",
+    "Geography - Agriculture": "https://ncert.nic.in/textbook/pdf/jhgy104.pdf",
+    "Geography - Minerals and Energy Resources": "https://ncert.nic.in/textbook/pdf/jhgy105.pdf",
+    "Geography - Manufacturing Industries": "https://ncert.nic.in/textbook/pdf/jhgy106.pdf",
+    "Geography - Lifelines of National Economy": "https://ncert.nic.in/textbook/pdf/jhgy107.pdf",
+    "Civics - Power Sharing": "https://ncert.nic.in/textbook/pdf/jhps101.pdf",
+    "Civics - Federalism": "https://ncert.nic.in/textbook/pdf/jhps102.pdf",
+    "Civics - Democracy and Diversity": "https://ncert.nic.in/textbook/pdf/jhps103.pdf",
+    "Civics - Gender, Religion and Caste": "https://ncert.nic.in/textbook/pdf/jhps104.pdf",
+    "Civics - Popular Struggles and Movements": "https://ncert.nic.in/textbook/pdf/jhps105.pdf",
+    "Civics - Political Parties": "https://ncert.nic.in/textbook/pdf/jhps106.pdf",
+    "Civics - Outcomes of Democracy": "https://ncert.nic.in/textbook/pdf/jhps107.pdf",
+    "Civics - Challenges to Democracy": "https://ncert.nic.in/textbook/pdf/jhps108.pdf",
+    "Economics - Development": "https://ncert.nic.in/textbook/pdf/jhke101.pdf",
+    "Economics - Sectors of the Indian Economy": "https://ncert.nic.in/textbook/pdf/jhke102.pdf",
+    "Economics - Money and Credit": "https://ncert.nic.in/textbook/pdf/jhke103.pdf",
+    "Economics - Globalisation and the Indian Economy": "https://ncert.nic.in/textbook/pdf/jhke104.pdf",
+    "Economics - Consumer Rights": "https://ncert.nic.in/textbook/pdf/jhke105.pdf"
+  },
+
+  "English (First Flight + Footprints)": {
+    "First Flight - A Letter to God": "https://ncert.nic.in/textbook/pdf/jefp101.pdf",
+    "First Flight - Nelson Mandela: Long Walk to Freedom": "https://ncert.nic.in/textbook/pdf/jefp102.pdf",
+    "First Flight - Two Stories about Flying": "https://ncert.nic.in/textbook/pdf/jefp103.pdf",
+    "First Flight - From the Diary of Anne Frank": "https://ncert.nic.in/textbook/pdf/jefp104.pdf",
+    "First Flight - Glimpses of India": "https://ncert.nic.in/textbook/pdf/jefp105.pdf",
+    "First Flight - Mijbil the Otter": "https://ncert.nic.in/textbook/pdf/jefp106.pdf",
+    "First Flight - Madam Rides the Bus": "https://ncert.nic.in/textbook/pdf/jefp107.pdf",
+    "First Flight - The Sermon at Benares": "https://ncert.nic.in/textbook/pdf/jefp108.pdf",
+    "First Flight - The Proposal": "https://ncert.nic.in/textbook/pdf/jefp109.pdf",
+    "Footprints Without Feet - A Triumph of Surgery": "https://ncert.nic.in/textbook/pdf/jefp201.pdf",
+    "Footprints Without Feet - The Thief’s Story": "https://ncert.nic.in/textbook/pdf/jefp202.pdf",
+    "Footprints Without Feet - The Midnight Visitor": "https://ncert.nic.in/textbook/pdf/jefp203.pdf",
+    "Footprints Without Feet - A Question of Trust": "https://ncert.nic.in/textbook/pdf/jefp204.pdf",
+    "Footprints Without Feet - Footprints Without Feet": "https://ncert.nic.in/textbook/pdf/jefp205.pdf",
+    "Footprints Without Feet - The Making of a Scientist": "https://ncert.nic.in/textbook/pdf/jefp206.pdf",
+    "Footprints Without Feet - The Necklace": "https://ncert.nic.in/textbook/pdf/jefp207.pdf",
+    "Footprints Without Feet - The Hack Driver": "https://ncert.nic.in/textbook/pdf/jefp208.pdf",
+    "Footprints Without Feet - Bholi": "https://ncert.nic.in/textbook/pdf/jefp209.pdf",
+    "Footprints Without Feet - The Book That Saved the Earth": "https://ncert.nic.in/textbook/pdf/jefp210.pdf"
+  },
+
+  "Hindi (Sparsh + Sanchayan)": {
+    "Sparsh - कबीर – दोहे": "https://ncert.nic.in/textbook/pdf/jhsp101.pdf",
+    "Sparsh - मीरा – पद": "https://ncert.nic.in/textbook/pdf/jhsp102.pdf",
+    "Sparsh - बिहारी – पद": "https://ncert.nic.in/textbook/pdf/jhsp103.pdf",
+    "Sparsh - मैथिलीशरण गुप्त – मनुष्य बनो": "https://ncert.nic.in/textbook/pdf/jhsp104.pdf",
+    "Sparsh - सुमित्रानंदन पंत – पर्वत प्रदेश में पावस": "https://ncert.nic.in/textbook/pdf/jhsp105.pdf",
+    "Sparsh - नागार्जुन – उत्साह": "https://ncert.nic.in/textbook/pdf/jhsp106.pdf",
+    "Sparsh - सर्वेश्वरदयाल सक्सेना – फसल": "https://ncert.nic.in/textbook/pdf/jhsp107.pdf",
+    "Sanchayan - हरिहर काका": "https://ncert.nic.in/textbook/pdf/jhsn101.pdf",
+    "Sanchayan - सपनों के-से दिन": "https://ncert.nic.in/textbook/pdf/jhsn102.pdf",
+    "Sanchayan - टोपी शुक्ला": "https://ncert.nic.in/textbook/pdf/jhsn103.pdf"
+  },
+
+  "Physical Education": {
+    "Unit 1 - Physical Education Overview": "https://ncert.nic.in/textbook/pdf/leep101.pdf",
+    "Unit 2 - Physical Fitness, Wellness and Lifestyle": "https://ncert.nic.in/textbook/pdf/leep102.pdf",
+    "Unit 3 - Training Methods": "https://ncert.nic.in/textbook/pdf/leep103.pdf",
+    "Unit 4 - Safety and First Aid": "https://ncert.nic.in/textbook/pdf/leep104.pdf",
+    "Unit 5 - Sports and Ethics": "https://ncert.nic.in/textbook/pdf/leep105.pdf"
+  }
+}
